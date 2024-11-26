@@ -1,0 +1,5 @@
+print('ola,mundo')
+print('palmeiras não tem mundial')
+print('51 é pinga')
+print(' se a queta')
+print('cristiano de bicicleta minha nossa,minha nossa golllll')
